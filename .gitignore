@@ -1,0 +1,53 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+bin/
+include/
+lib/
+lib64/
+share/python-wheels/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+.history/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# AI/DL specific
+.keras/
+.config/
